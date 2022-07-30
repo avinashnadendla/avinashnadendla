@@ -62,6 +62,8 @@
   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashnadendla&hide_border=true&layout=compact" align="center" /></div> 
 
+   <br/>  
+  
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashnadendla&theme=light&hide_border=false" align="center" /></div>
   
 
