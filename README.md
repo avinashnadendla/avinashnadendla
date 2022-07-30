@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working at [System73](https://www.system73.com/)
 
-- 🌱 I’m currently learning **Azure, AWS, DevOps**
+- 🌱 I’m am very good at  **Cloud Computing and DevOps**
 
-- 💬 Ask me about **Docker, Kubernetes, Terraform**
+- 💬 Ask me about **Docker, Kubernetes, Terraform, Azure, AWS**
 
 - 📫 How to reach me **nadendlaavinash@gmail.com**
 
