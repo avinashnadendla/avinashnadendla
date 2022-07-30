@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Nadendla</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashnadednla&label=Profile%20views&color=0e75b6&style=flat" alt="avinashnadednla" /> </p>
-
 - 🔭 I’m currently working at [System73](https://www.system73.com/)
 
 - 🌱 I’m am very good at  **Cloud Computing and DevOps**
