@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [System73](https://www.system73.com/)
 
-- 🌱 I’m am very good at  **Cloud Computing and DevOps**
+- 🌱 I’m am good at  **Cloud Computing and DevOps**
 
 - 💬 Ask me about **Docker, Kubernetes, Terraform, Azure, AWS**
 
