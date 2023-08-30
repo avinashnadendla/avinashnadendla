@@ -50,23 +50,5 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-  ### Github stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=avinashnadendla&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
- <br/>  
-  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashnadendla&theme=light&hide_border=false" align="center" /></div>
-
- <br/>  
-  
-  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashnadendla&hide_border=true&layout=compact" align="center" /></div> 
-
-
-
-</td></tr></table>  
-
 
 <br/>  
